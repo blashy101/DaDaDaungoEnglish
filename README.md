@@ -4,6 +4,6 @@ Copy the contents of the zip to your atmosphere\contents folder.
 
 It should look like this:
 
-SDROOT\atmosphere\contents\010017F01CEBA000\romfs\Data*files*
+SDROOT\atmosphere\contents\010017F01CEBA000\romfs\Data\\`*files*`
 
 Enjoy the game!
